@@ -1,0 +1,25 @@
+# Network Scan – Sanitized Output
+
+This file contains the sanitized Nmap scan output for internal reporting and submission. All IP addresses and MAC addresses have been anonymized.
+
+Nmap scan report for 10.x.x.2
+Host is up (0.00050s latency).
+
+PORT     STATE SERVICE
+53/tcp   open  dns
+80/tcp   open  http
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+
+Service Info:
+
+* 53/tcp: DNS service
+* 80/tcp: Web service (unencrypted)
+* 443/tcp: Secure web service
+* 2000/tcp: Cisco SCCP or device/admin service
+
+# Notes:
+
+* All IP addresses replaced with 10.x.x.2 to maintain privacy.
+* All MAC addresses replaced with XX:XX:XX:XX:XX:XX.
+* This file serves as proof of the Nmap scan for Task 1 submission.
