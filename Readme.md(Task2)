@@ -1,0 +1,22 @@
+Phishing Email Analysis - Task 2
+Drata Security System Account Inactivity Scam Analysis
+Elevate Labs Cybersecurity Internship
+Task 2: Analyze a Phishing Email Sample
+Date: October 22, 2025
+Analyst: Cybersecurity Intern
+
+Project Overview
+This repository contains a comprehensive analysis of a real phishing email impersonating the Drata Security System. The email uses an account inactivity scam technique to trick recipients into providing credentials on a fake login page. This analysis was completed as part of the Elevate Labs Cybersecurity Internship Task 2.
+
+Objective
+Identify phishing characteristics in a suspicious email sample and document findings in a detailed security report, demonstrating practical skills in:
+
+Email threat detection and analysis
+
+Social engineering recognition
+
+Phishing indicator identification
+
+Incident response procedures
+
+Security documentation and reporting
